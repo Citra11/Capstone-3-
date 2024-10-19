@@ -1,6 +1,6 @@
 
 
-# Capstone-3
+#Bank Term Deposit Prediction Analysis
 
 Here's a summary of your capstone project proposal:
 
